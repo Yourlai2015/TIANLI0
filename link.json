@@ -683,9 +683,16 @@
         "desc": "妙不可言",
         "url": "https://blog.opeach.cn"
        }
+      {
+        "name": "Yourlai Blog",
+        "avatar": "https://cdn.cdn.yourlai.icu/img/logo/ava.png",
+        "desc": "无bug是理想，调设备是日常",
+        "url": "https://yourlai.icu"
+       }
     ]
   }
 ]
+
 
 
 
